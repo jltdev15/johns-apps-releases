@@ -4,4 +4,4 @@ Installers for the apps in [John's Apps](https://apps.johnlerryt.xyz), by John L
 
 Find the file you need under [Releases](https://github.com/jltdev15/johns-apps-releases/releases). Each release includes a `SHA256SUMS` file for checking your download.
 
-Windows installers are not code-signed. Pre-releases are preview builds.
+Windows installers are not code-signed.
